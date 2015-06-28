@@ -7,6 +7,7 @@
 </head>
 <body>
 	<?php include 'inc/header.php';?>
+	<?php include 'inc/footer.php'; ?>
 	<?php include 'inc/footer_common.php'; ?>
 </body>
 </html>
